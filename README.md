@@ -1,6 +1,22 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-## Getting Started
+# Leah Martin | Software Developer
+
+Bridging the gap between creative vision and technical execution. This is my professional portfolio built with **Next.js 15**, **TypeScript**, and **Tailwind CSS**.
+
+## 🚀 Projects
+- **Interactive Map:** [Coming Soon] - A visualization of location-based data.
+- **Project Gallery:** [Coming Soon] - A filterable showcase of my work.
+
+## 🛠️ Tech Stack
+- **Framework:** Next.js (App Router)
+- **Styling:** Tailwind CSS
+- **Deployment:** GitHub Actions
+
+## 📬 Contact
+- **GitHub:** [leahmartin-maker](github.com)
+- **Website:** [leahmartin-maker.github.io](https://leahmartin-maker.github.io)
+
 
 First, run the development server:
 
